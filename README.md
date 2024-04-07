@@ -2,7 +2,9 @@ Excel Aficionado, Data Analytics enthusiast and Data Visualization admirer:
 
 ♦ Veritas in numeris est ♦
 
-📊 I’m passionate about data analysis using Microsoft Excel, MySQL and Python.
+⭐ Passionate about data analysis and identifying trends and insights to inform strategic decision-making. 
+
+📊 I love Stats and I´m a counter: I count everything. Counting makes us find the "Truth"
 
 🌟 Connect with me on LinkedIn: https://www.linkedin.com/in/matheusreispmp/
 
