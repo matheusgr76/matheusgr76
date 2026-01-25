@@ -1,13 +1,13 @@
-Excel Aficionado, Data Analytics enthusiast and Data Visualization admirer:
-
+AI-Powered Analyst | Sports Betting Quant | Excel Wizard
 ♦ Veritas in numeris est ♦
 
-⭐ Passionate about data analysis and identifying trends and insights to inform strategic decision-making. 
+ Building intelligent systems at the intersection of AI and analytics
+📊 From spreadsheets to production: Leveraging AIs to architect full-stack betting algorithms
+🎲 Systematic value betting across sports markets using real-time data & ML calibration
+⚡ Vibe coding: Transforming domain expertise into working systems through AI collaboration
 
-📊 I love Stats and I´m a counter: I count everything. Counting makes us find the "Truth"
+💡 Current focus: NBA arbitrage systems, prediction market inefficiencies, quantitative sports modeling
 
-🌟 Connect with me on LinkedIn: https://www.linkedin.com/in/matheusreispmp/
+🌟 Connect: https://www.linkedin.com/in/matheusreispmp/
 
 
-
-Feel free to customize these examples, add more sections, and sprinkle in your unique flair! Happy coding! 🚀🔥
