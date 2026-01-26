@@ -1,4 +1,4 @@
-AI-Powered Analyst | Sports Betting Quant | Excel Wizard
+AI-Powered Analyst | Project Management | Data Analysis
 ♦ Veritas in numeris est ♦
 
  Building intelligent systems at the intersection of AI and analytics
