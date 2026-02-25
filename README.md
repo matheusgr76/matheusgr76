@@ -8,9 +8,11 @@ AI-Powered Analyst | Project Management | Data Analysis
 
 🎲 Systematic value betting across sports markets using real-time data & ML calibration
 
-⚡ Vibe coding: Transforming domain expertise into working systems through AI collaboration
+⚡ AI Agent Orchestration: Applying domain expertise into working software by orchestrating autonomous coding agents
 
 💡 Current focus: NBA arbitrage systems, prediction market inefficiencies, quantitative sports modeling
+
+💎 Telegram Bots integration
 
 🌟 Connect: https://www.linkedin.com/in/matheusreispmp/
 
