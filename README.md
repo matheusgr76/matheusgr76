@@ -1,30 +1,26 @@
-# Hi, I'm Matheus
+# 👋 Hi, I'm Matheus
 
-Program and Release Manager with 26 years of experience across telecom and IT, focused on end-to-end software delivery, multi-product portfolios, AI governance, and operational automation.
+Program Manager and Release Manager responsible for the product release lifecycle at a global technology organization, with 25+ years of experience in IT and Telecommunications, primarily at Ericsson.
 
-In my professional work, I design governance for AI agents and platform-hosting agents across the release lifecycle. I also create Copilot- and Kiro-enabled automations that turn real delivery signals into evidence-based Release Management assessments and recommendations.
+I improve software delivery performance, release predictability, operational excellence, and business outcomes across global, cross-functional organizations.
 
-These assessments are now being used by my organization’s leadership team and other stakeholders to standardize agentic release assessment, making release knowledge more visible, consistent, and actionable.
+My work combines:
 
-Outside of work, I explore these same ideas through practical projects involving:
+- 📦 Program and Release Management
+- 🤖 AI governance and agentic delivery
+- ⚙️ Engineering productivity and automation
+- 📊 Data-driven risk, readiness, and performance management
 
-- AI governance and agentic software engineering
-- Release management, delivery health, and risk detection
-- Data pipelines, analytics, and probabilistic decision systems
-- Workflow automation and operational tooling
-- Quantitative modeling and real-time information processing
+I design governance for AI agents and platform-hosting agents across the product release lifecycle. I also build Copilot- and Kiro-enabled automations that use real delivery signals to produce evidence-based Release Management assessments and recommendations.
 
-## Current interests
+These assessments are now used by leadership and other stakeholders within my organization to standardize agentic release assessment and make delivery knowledge more visible, consistent, and actionable.
 
-- Governance and operating models for AI agents
-- AI-assisted release management and delivery assurance
-- Risk detection and process automation
-- Reliable, testable data pipelines
-- Quantitative modeling under uncertainty
-- Practical applications of Python, APIs, LLMs, Copilot, and Kiro
+My core experience includes release readiness, dependency and risk management, delivery metrics, executive reporting, stakeholder alignment, digital transformation, and continuous improvement using tools such as Jira, Power BI, eazyBI, Copilot, Copilot Studio, and Kiro.
 
-Most of my professional work involves proprietary systems and information. The projects here are independent experiments and learning vehicles, but they reflect the same themes: structure ambiguity, make decisions traceable, and turn analysis into repeatable execution.
+## 🚀 Outside work
 
-> Veritas in numeris est.
+I explore Python, data pipelines, quantitative modeling, prediction markets, decentralized finance, LLM workflows, and the impact of AI on business transformation.
+
+🎓 PMP · 🌍 Portuguese, English, and Spanish
 
 [LinkedIn](https://www.linkedin.com/in/matheusreispmp/) · [GitHub](https://github.com/matheusgr76)
