@@ -1,18 +1,31 @@
-Program & Release Manager | 26 years in Telecom & IT at a major multinational. 
-E2E SW delivery across multi-product portfolios. Driving agentic AI into release governance, risk detection, and process automation. PMP. Fluent in Portuguese, English, and Spanish.
+Hi, I'm Matheus
 
-♦ Veritas in numeris est ♦
+Program and Release Manager with 26 years of experience across telecom and IT, focused on end-to-end software delivery, multi-product portfolios, and turning complex operational problems into measurable execution.
 
- Building intelligent systems at the intersection of AI and analytics
- 
-🎲 Systematic value betting across sports markets using real-time data & ML calibration
+I build personal systems at the intersection of:
 
-⚡ AI Agent Orchestration: Applying domain expertise into working software by orchestrating autonomous coding agents
+AI-assisted and agentic software engineering
 
-💡 Current focus: Arbitrage systems, prediction market inefficiencies, quantitative sports modeling
+Data pipelines, analytics, and probabilistic decision systems
 
-💎 Telegram Bots integration
+Workflow automation and operational tooling
 
-🌟 Connect: https://www.linkedin.com/in/matheusreispmp/
+Quantitative modeling and real-time information processing
 
+Current interests
 
+Agentic AI for software delivery and release governance
+
+Risk detection and process automation
+
+Reliable, testable data pipelines
+
+Quantitative modeling under uncertainty
+
+Practical applications of Python, APIs, LLMs, and automation
+
+Most of my professional work involves proprietary systems and information. The projects here are independent experiments and learning vehicles, but they reflect the same themes: structure ambiguity, make decisions traceable, and turn analysis into repeatable execution.
+
+Veritas in numeris est.
+
+LinkedIn · GitHub
