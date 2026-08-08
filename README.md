@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheus
 
-Program Manager and Release Manager responsible for the product release lifecycle at a global technology organization, with 25+ years of experience in IT and Telecommunications, primarily at Ericsson.
+Program Manager and Release Manager responsible for the product release lifecycle at a global technology organization, with 26+ years of experience in IT and Telecommunications.
 
 I improve software delivery performance, release predictability, operational excellence, and business outcomes across global, cross-functional organizations.
 
